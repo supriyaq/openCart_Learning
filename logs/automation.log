@@ -1,0 +1,224 @@
+2025-03-14 10:10:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Supriya\AppData\Local\Temp\testng-eclipse-611564688\testng-customsuite.xml"
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:10:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Supriya\AppData\Local\Temp\testng-eclipse-611564688\testng-customsuite.xml
+
+2025-03-14 10:10:40 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2025-03-14 10:10:47 INFO  TC_001_AccountRegitrationTest:18 -  **** Starting the Test Case: TC_001_AccountRegitrationTest ***** 
+2025-03-14 10:10:47 INFO  TC_001_AccountRegitrationTest:28 -  clicked on My Account Link... 
+2025-03-14 10:10:47 INFO  TC_001_AccountRegitrationTest:30 -  clicked on Register Link... 
+2025-03-14 10:10:50 INFO  TC_001_AccountRegitrationTest:35 -  Providing customer Details... 
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:39 - Entered first Name
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:41 - Entered last Name
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:43 - Entered email Address
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:45 - Entered mobile Number 
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:52 - Entered password
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:55 - Entered confirm password
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:58 - Clicked on subcribe Yes button
+2025-03-14 10:10:51 INFO  TC_001_AccountRegitrationTest:62 - Clicked on the terms and condition check box
+2025-03-14 10:10:52 INFO  TC_001_AccountRegitrationTest:65 - Clicked on continue Button..
+2025-03-14 10:10:52 INFO  TC_001_AccountRegitrationTest:67 -  Validating the expected message... 
+2025-03-14 10:10:52 INFO  TC_001_AccountRegitrationTest:89 -  !!! FINISHED .... Test Case Completed !!! 
+2025-03-14 10:10:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@bdd2027: 115 ms
+2025-03-14 10:10:52 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@31f20c9f: 0 ms
+2025-03-14 10:10:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2babf189: 12 ms
+2025-03-14 10:10:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@19b047fe: 9 ms
+2025-03-14 10:10:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@118102ee: 11 ms
+2025-03-14 10:10:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@48cd9a2c: 0 ms
+2025-03-14 10:14:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Supriya\AppData\Local\Temp\testng-eclipse--1701406137\testng-customsuite.xml"
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:14:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Supriya\AppData\Local\Temp\testng-eclipse--1701406137\testng-customsuite.xml
+
+2025-03-14 10:14:14 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-03-14 10:14:18 INFO  TC_001_AccountRegitrationTest:18 -  **** Starting the Test Case: TC_001_AccountRegitrationTest ***** 
+2025-03-14 10:14:19 INFO  TC_001_AccountRegitrationTest:28 -  clicked on My Account Link... 
+2025-03-14 10:14:19 INFO  TC_001_AccountRegitrationTest:30 -  clicked on Register Link... 
+2025-03-14 10:14:22 INFO  TC_001_AccountRegitrationTest:35 -  Providing customer Details... 
+2025-03-14 10:14:22 INFO  TC_001_AccountRegitrationTest:39 - Entered first Name
+2025-03-14 10:14:22 INFO  TC_001_AccountRegitrationTest:41 - Entered last Name
+2025-03-14 10:14:22 INFO  TC_001_AccountRegitrationTest:43 - Entered email Address
+2025-03-14 10:14:22 INFO  TC_001_AccountRegitrationTest:45 - Entered mobile Number 
+2025-03-14 10:14:22 INFO  TC_001_AccountRegitrationTest:52 - Entered password
+2025-03-14 10:14:23 INFO  TC_001_AccountRegitrationTest:55 - Entered confirm password
+2025-03-14 10:14:23 INFO  TC_001_AccountRegitrationTest:58 - Clicked on subcribe Yes button
+2025-03-14 10:14:23 INFO  TC_001_AccountRegitrationTest:62 - Clicked on the terms and condition check box
+2025-03-14 10:14:24 INFO  TC_001_AccountRegitrationTest:65 - Clicked on continue Button..
+2025-03-14 10:14:24 INFO  TC_001_AccountRegitrationTest:67 -  Validating the expected message... 
+2025-03-14 10:14:24 INFO  TC_001_AccountRegitrationTest:89 -  !!! FINISHED .... Test Case Completed !!! 
+2025-03-14 10:14:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@736048ed: 91 ms
+2025-03-14 10:14:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@1976f537: 1 ms
+2025-03-14 10:14:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2e23c180: 10 ms
+2025-03-14 10:14:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4b7c4456: 11 ms
+2025-03-14 10:14:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a32fb6: 9 ms
+2025-03-14 10:14:24 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6107165: 1 ms
+2025-03-14 10:20:07 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Supriya\AppData\Local\Temp\testng-eclipse--1169041186\testng-customsuite.xml"
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:20:07 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Supriya\AppData\Local\Temp\testng-eclipse--1169041186\testng-customsuite.xml
+
+2025-03-14 10:20:07 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+2025-03-14 10:20:10 INFO  TC_001_AccountRegitrationTest:18 -  **** Starting the Test Case: TC_001_AccountRegitrationTest ***** 
+2025-03-14 10:20:10 INFO  TC_001_AccountRegitrationTest:28 -  clicked on My Account Link... 
+2025-03-14 10:20:11 INFO  TC_001_AccountRegitrationTest:30 -  clicked on Register Link... 
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:35 -  Providing customer Details... 
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:39 - Entered first Name
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:41 - Entered last Name
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:43 - Entered email Address
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:45 - Entered mobile Number 
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:52 - Entered password
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:55 - Entered confirm password
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:58 - Clicked on subcribe Yes button
+2025-03-14 10:20:14 INFO  TC_001_AccountRegitrationTest:62 - Clicked on the terms and condition check box
+2025-03-14 10:20:16 INFO  TC_001_AccountRegitrationTest:65 - Clicked on continue Button..
+2025-03-14 10:20:16 INFO  TC_001_AccountRegitrationTest:67 -  Validating the expected message... 
+2025-03-14 10:20:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@7c853486: 71 ms
+2025-03-14 10:20:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@36361ddb: 12 ms
+2025-03-14 10:20:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6940f685: 9 ms
+2025-03-14 10:20:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@e48bf9a: 8 ms
+2025-03-14 10:20:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@387bf2d9: 8 ms
+2025-03-14 10:20:16 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@74aa9c72: 0 ms
+2025-03-14 10:23:45 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\Supriya\AppData\Local\Temp\testng-eclipse--849869515\testng-customsuite.xml"
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-03-14 10:23:45 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Supriya\AppData\Local\Temp\testng-eclipse--849869515\testng-customsuite.xml
+
+2025-03-14 10:23:45 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+2025-03-14 10:23:47 INFO  TC_001_AccountRegitrationTest:18 -  **** Starting the Test Case: TC_001_AccountRegitrationTest ***** 
+2025-03-14 10:23:48 INFO  TC_001_AccountRegitrationTest:28 -  clicked on My Account Link... 
+2025-03-14 10:23:48 INFO  TC_001_AccountRegitrationTest:30 -  clicked on Register Link... 
+2025-03-14 10:23:51 INFO  TC_001_AccountRegitrationTest:35 -  Providing customer Details... 
+2025-03-14 10:23:51 INFO  TC_001_AccountRegitrationTest:39 - Entered first Name
+2025-03-14 10:23:51 INFO  TC_001_AccountRegitrationTest:41 - Entered last Name
+2025-03-14 10:23:51 INFO  TC_001_AccountRegitrationTest:43 - Entered email Address
+2025-03-14 10:23:51 INFO  TC_001_AccountRegitrationTest:45 - Entered mobile Number 
+2025-03-14 10:23:52 INFO  TC_001_AccountRegitrationTest:52 - Entered password
+2025-03-14 10:23:52 INFO  TC_001_AccountRegitrationTest:55 - Entered confirm password
+2025-03-14 10:23:52 INFO  TC_001_AccountRegitrationTest:58 - Clicked on subcribe Yes button
+2025-03-14 10:23:52 INFO  TC_001_AccountRegitrationTest:62 - Clicked on the terms and condition check box
+2025-03-14 10:23:52 INFO  TC_001_AccountRegitrationTest:65 - Clicked on continue Button..
+2025-03-14 10:23:52 INFO  TC_001_AccountRegitrationTest:67 -  Validating the expected message... 
+2025-03-14 10:23:52 ERROR TC_001_AccountRegitrationTest:80 -  Test failed !!!
+2025-03-14 10:23:52 DEBUG TC_001_AccountRegitrationTest:81 - Debug Logs !!!
+2025-03-14 10:23:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@174e1b69: 73 ms
+2025-03-14 10:23:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@41fed14f: 12 ms
+2025-03-14 10:23:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@47b179d7: 10 ms
+2025-03-14 10:23:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7fb33394: 10 ms
+2025-03-14 10:23:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@387bf2d9: 8 ms
+2025-03-14 10:23:53 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@74aa9c72: 0 ms
